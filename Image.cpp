@@ -237,7 +237,7 @@ void Image::colorMaker(){
 pair<int,int> Image::findingCellSize(){
     int wCellSize = w;
     int hCellSize = h;
-    for(int i = 96; i >= 15; i--){
+    for(int i = 96; i >= 20; i--){
         if(w%i == 0)
             wCellSize = i;
         if(h%i == 0)

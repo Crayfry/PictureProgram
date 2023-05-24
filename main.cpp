@@ -121,7 +121,7 @@ int main(){
             HorizontalReflect(thePicture);
             break;
         case 5:
-            thePicture = ResizeBy(thePicture, 4, 4);
+            thePicture = ResizeBy(thePicture, 8, 8);
             thePicture->createMosaic();
             break;
         case 6:
