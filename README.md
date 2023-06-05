@@ -2,8 +2,8 @@
 A console-based simple picture program that can edit a picture in varies ways. Uses Sean Barrett's stb single-file public domain file libraries for C/C++.
 
 # Requirements
-GCC c++ compiler
-Supported picture file - PNG or JPG
+GCC c++ compiler,
+Supported picture file - PNG or JPG,
 Pictures in picture_reservoir folder for the mosaic functionality
 
 # Usage
