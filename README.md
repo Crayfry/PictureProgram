@@ -13,7 +13,8 @@ The result of each option will be in "result.jpg" in the same directory as main.
 The mosaic function requires a "pictures_reservoir" folder inside which you should provide pictures to be used.
 The "Make a lot of images of colors" option will create 25^3 number of 64x64 images of colors and will be places in the same folder as main.exe. Use at your own discretion.
 
-#Examples
+# Examples
+
 Original: 
 ![test](https://github.com/Crayfry/PictureProgram/assets/52294803/b430e9e4-4f5c-4eb7-8db0-cb7355dbb3aa)
 
